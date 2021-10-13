@@ -1,2 +1,2 @@
 # Stepper
-Easy stepper, calm down and make burgers) 
+light stepper, calm down and make burgers) 
